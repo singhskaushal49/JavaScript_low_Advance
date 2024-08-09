@@ -6,10 +6,10 @@
 
 // how to create objects
 
-// const person = {name: "Harshit", age: 22};
+// const person = {name: "Kaushal", age: 21};
 const person = {
-  name : "harshit",
-  age : 22,
+  name : "kaushal",
+  age : 21,
   hobbies: ["guitar", "sleeping", "listening music"]
 }
 console.log(person);

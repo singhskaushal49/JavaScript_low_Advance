@@ -1,8 +1,8 @@
 // difference between dot and bracket notaion
 // const key = "email";
 // const person = {
-// name: "harshit",
-// age: 22,
+// name: "Kaushal",
+// age: 21,
 // "person hobbies": ["guitar", "sleeping", "listening music"]
 
 // }
